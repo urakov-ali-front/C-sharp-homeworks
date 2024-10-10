@@ -1,0 +1,15 @@
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\bin\Debug\net8.0\C-sharp-homeworks.exe
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\bin\Debug\net8.0\C-sharp-homeworks.deps.json
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\bin\Debug\net8.0\C-sharp-homeworks.runtimeconfig.json
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\bin\Debug\net8.0\C-sharp-homeworks.dll
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\bin\Debug\net8.0\C-sharp-homeworks.pdb
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.AssemblyInfoInputs.cache
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.AssemblyInfo.cs
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.csproj.CoreCompileInputs.cache
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.sourcelink.json
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.dll
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\refint\C-sharp-homeworks.dll
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.pdb
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\C-sharp-homeworks.genruntimeconfig.cache
+C:\Users\mukha\OneDrive\Рабочий стол\C-sharp-homeworks\obj\Debug\net8.0\ref\C-sharp-homeworks.dll
